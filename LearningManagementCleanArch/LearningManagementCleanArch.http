@@ -1,0 +1,6 @@
+@LearningManagementCleanArch_HostAddress = http://localhost:5075
+
+GET {{LearningManagementCleanArch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
